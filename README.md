@@ -1,31 +1,63 @@
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arbazahmad95)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Arbaz-Ahmad95)
+
+# 💻 Tech Stack:
+
 <div align="center">
 
-<br/>
-
-# Arbaz Ahmad
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%E2%80%A2+MERN+Stack+Developer;React+Native+Mobile+App+Developer;Building+Scalable+Web+%26+Mobile+Applications;Open+Source+Enthusiast+%F0%9F%9A%80;India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
-
-<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,java,html,css,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,firebase,redux,postman,vercel,netlify,render,vscode,npm,expo&theme=dark" />
 
 </div>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+# 📊 GitHub Stats:
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arbaz-Ahmad95&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Arbaz-Ahmad95&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbaz-Ahmad95&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-### `> whoami`
+# 📈 Contribution Graph
 
-```yaml
-name     : Arbaz Ahmad
-role     : Full Stack & Mobile App Developer
-stack    : MERN Stack + React Native
-location : India
-focus    : Scalable Web Apps & Cross Platform Mobile Apps
-status   : Open to Freelance · Collaborations · Full-time
+[![Arbaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arbaz-Ahmad95&theme=tokyo-night&hide_border=true)](https://github.com/Arbaz-Ahmad95)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Arbaz-Ahmad95&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
+---
+
+# ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+# 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=Arbaz-Ahmad95&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Arbaz-Ahmad95&style=for-the-badge&color=blueviolet)
+
+</div>
