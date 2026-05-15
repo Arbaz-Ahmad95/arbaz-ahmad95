@@ -29,13 +29,7 @@ stack    : MERN Stack + React Native
 location : India
 status   : Open to Freelance & Full-time Opportunities
 focus    : Scalable Web Apps & Cross Platform Mobile Apps
-```yaml
-name     : Arbaz Ahmad
-role     : Full-Stack Web Developer & Mobile App Developer
-location : India
-edu      : B.Tech Computer Science
-open_to  : Freelance · Collaborations · Full-time
-contact  : yourmail@gmail.com
+
 ```
 
 ---
